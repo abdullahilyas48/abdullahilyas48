@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Abdullah.
+- 📚 I'm a Junior at FAST NU University, pursuing a major in Computer Science.
+- 👀 I’m interested in AI, Machine Learning and Cloud Computing. 
+- 🌱 I’m currently learning Django & JavaScript.
+- 💞️ Open to collaboration on web development projects.
+- 🤝 Seeking guidance for Summer 2025 internships.
+- 📫 Feel free to reach out at abdullahilyas48@icloud.com !
+- ⚡ Fun fact: Once dreamed of becoming a doctor, but here I am, thriving in tech—funny how life changes.
