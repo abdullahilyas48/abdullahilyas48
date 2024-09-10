@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm M. Abdullah</h1>
 <h3 align="center">Junior CS @ FAST NU University</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdulahilyas48&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="abdulahilyas48" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahilyas48&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahilyas48" /> </p>
 
 
 - 👀 Passionate about AI, Machine Learning, and Cloud Computing.
