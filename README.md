@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahilyas48&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahilyas48" /> </p>
 
-
 - 👀 Passionate about AI, Machine Learning, and Cloud Computing.
 - 🌱 Actively learning Django & JavaScript to expand my web dev skills.
 - 💼 Always excited to collaborate on web development projects.
 - 🎯 Looking for guidance and opportunities for Summer 2025 internships.
-- 📫 Reach out to me at **abdullahilyas48@icloud.com** — let’s connect!
+- 📫 Reach out to me at **abdullahilyas48@gmail.com** — let’s connect!
 - ⚡ Fun fact: Originally wanted to become a doctor, but now fully embracing the tech world—funny where life takes us!
 
 <h3 align="left">Connect with me:</h3>
@@ -23,4 +22,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
