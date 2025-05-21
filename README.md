@@ -6,8 +6,8 @@
 </p>
 
 - 👀 Passionate about **AI, Machine Learning, and Cloud Computing**.
-- 🌱 Currently learning **Django** & **JavaScript** to enhance my web dev skills.
-- 💼 Open to collaborating on **web development projects**.
+- 🌱 Currently diving deep into the **MERN stack** to sharpen my web development skills and build scalable, full-stack applications.
+- 💼 Open to collaborating on **app & web development projects**.
 - 🎯 Seeking **Summer 2025 internships** and mentorship.
 - 📫 Reach out to me at **abdullahilyas48@gmail.com** — let’s connect!
 - ⚡ Fun fact: I originally aimed to become a doctor, but life led me to tech — no regrets!
