@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm M. Abdullah</h1>
-<h3 align="center">Junior CS @ FAST NU University</h3>
+<h3 align="center">Junior CS @ FAST NUCES Lahore</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulahilyas48&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahilyas48" />
