@@ -40,6 +40,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding:5px;"/>
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="padding:5px;"/>
+</a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="filter: invert(100%); padding:5px;" />
   </a>
