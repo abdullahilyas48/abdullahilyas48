@@ -1,20 +1,20 @@
 <h1 align="center">Hey 👋, I'm M. Abdullah</h1>
-<h3 align="center">Junior CS @ FAST NUCES Lahore</h3>
+<h3 align="center">Senior CS @ FAST NUCES Lahore</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulahilyas48&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahilyas48" />
 </p>
 
-- 👀 Passionate about **AI, Machine Learning, and Cloud Computing**.
+- 👀 Passionate about **Agentic AI, Machine Learning, and Cloud Computing**.
 - 🌱 Currently diving deep into the **MERN stack** to sharpen my web development skills and build scalable, full-stack applications.
 - 💼 Open to collaborating on **app & web development projects**.
-- 🎯 Seeking **Summer 2025 internships** and mentorship.
+- 🎯 Seeking **Summer 2026 internships** and mentorship.
 - 📫 Reach out to me at **abdullahilyas48@gmail.com** — let’s connect!
 - ⚡ Fun fact: I originally aimed to become a doctor, but life led me to tech — no regrets!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/m-abdullah-bb7412298/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-bb7412298/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
